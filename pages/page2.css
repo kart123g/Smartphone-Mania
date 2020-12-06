@@ -1,0 +1,11 @@
+.logo1{
+    background: none;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.specs{
+    font-size: 20px;
+}
