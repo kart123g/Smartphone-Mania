@@ -1,5 +1,9 @@
 # Smartphone-Mania
 
-S.No.	    Date	        Description
-  1	    19-Aug-20	  Title selection 
-  2	    19-Aug-20	  Project idea discussion
+#19 Aug 2020
+Project Idea discussion
+
+
+#7 Dec 2020
+Project Completion Date
+
